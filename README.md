@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+May I introduce the person behind this repo. The dude
+- knows some programming languages.
+  - but knows nothing about digital circuits, analog circuits, or even "programming" itself.
+  - even asks ChatGPT to write (code) for him (without markable success for the time being).
+- comes from the pre-emoji era 😽.
+- is a plain, vanilla guy without special talents or magics.
+- hates unreasonable deadlines.
+- hates being disrupted or interuppted every other minute.
+
+```python
+if y0umu.observe_virtue(person.acts) in Virtue("黃金精神"):
+    y0umu.show_respect()
+    try:
+        y0umu.learn_from_context()
+    except:
+        y0umu.feed_yoyoku(item=menu.rand())
+    finally:
+        y0umu.heal(target="self")
+```
