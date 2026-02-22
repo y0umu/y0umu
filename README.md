@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 May I introduce the person behind this repo. The dude
 - knows some programming languages.
   - but knows nothing about digital circuits, analog circuits, or even "programming" itself.
-  - even asks ChatGPT to write (code) for him (without markable success for the time being).
+  - even asks DeepSeek, Gemini, Qwen[0-9]+Coder, GLM and ChatGPT (the list would go on) to write (code) for him.
+    - really get annoyed for LLMs not coping with the **latest** version of APIs.
 - comes from the pre-emoji era 😽.
 - is a plain, vanilla guy without special talents or magics.
 - hates unreasonable deadlines.
